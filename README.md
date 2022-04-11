@@ -1,4 +1,4 @@
-Overall objective
+## Overall objective
 
 To build a Covid Smart Mall model, consisting of a smart entry and exit mechanism
 which restricts the maximum number of people in the mall to, say 100 and a
@@ -28,3 +28,9 @@ used both by mall authorities as well as health authorities to determine how man
 people have body temperature above a certain thresh-hold. We can also use the
 data to keep track of the amount of sanitizer used.The data can be made available
 to the general public so that they could plan their visit accordingly
+
+## Team Members:
+Anmoldeep Kaur Dhillon
+Aryan Gupta
+Harshita Gupta
+Karmanjyot Singh
