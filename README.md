@@ -30,7 +30,7 @@ data to keep track of the amount of sanitizer used.The data can be made availabl
 to the general public so that they could plan their visit accordingly
 
 ## Team Members:
-Anmoldeep Kaur Dhillon
-Aryan Gupta
-Harshita Gupta
-Karmanjyot Singh
+1. Anmoldeep Kaur Dhillon
+2. Aryan Gupta
+3. Harshita Gupta
+4. Karmanjyot Singh
