@@ -1,12 +1,11 @@
-## Overall objective
+### Overall objective
 
 To build a Covid Smart Mall model, consisting of a smart entry and exit mechanism
 which restricts the maximum number of people in the mall to, say 100 and a
 temperature checker which denies entry to any person with body temperature
 more than say 100℃ and smart sanitizer dispenser.
 
-What are the inputs/physical quantities measured  and How are
-we going to use the input?
+## What are the inputs/physical quantities measured  and How are we going to use the input?
 
 Our project uses a DHT-11 temperature sensor that’ll be installed on the entrance
 measuring the body temperature of the person wishing to enter the mall , and does
@@ -21,7 +20,7 @@ corresponding to entry and one for exit.
 And a smart sanitizer dispenser that uses PIR motion sensor and servo motor to
 dispense the sanitizing fluid.
 
-Description of the output if any ?
+## Description of the output:
 
 We can keep a track of the number of people who visited the mall as this can be
 used both by mall authorities as well as health authorities to determine how many
@@ -30,7 +29,7 @@ data to keep track of the amount of sanitizer used.The data can be made availabl
 to the general public so that they could plan their visit accordingly
 
 ## Team Members:
-1. Anmoldeep Kaur Dhillon
-2. Aryan Gupta
-3. Harshita Gupta
-4. Karmanjyot Singh
+1. Aryan Gupta
+2. Anmoldeep Kaur Dhillon
+4. Harshita Gupta
+5. Karmanjyot Singh
