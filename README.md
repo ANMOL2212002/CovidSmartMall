@@ -28,6 +28,23 @@ people have body temperature above a certain thresh-hold. We can also use the
 data to keep track of the amount of sanitizer used.The data can be made available
 to the general public so that they could plan their visit accordingly
 
+## Functionalities provided:
+- We use `blynk`(using bluetooth) to interact with the customer and prompt them to check their temperature and notify them the temperature details and if they are allowed to go inside or not.
+
+- We use sensors for:
+   1. Measuring temperature of customers.
+   2. Opening entry and exit gates when required.
+   3. Dispensing sanitizer once a person places his/her hand below the sanitizer.
+   4. Prompting the authorities to refill sanitizer when required.
+   5. To make sure people are maintaining social distancing.
+   
+- We store various data using om2m technology and use it for making graphs for analysis.
+
+- We also have two websites which provide the following functionality: 
+  - stores various data regarding sanitizer for analysis and prompts the mall workers to refill it when required.
+  - stores info regarding peopel present inside the mall.
+   
+
 ## Team Members:
 1. Aryan Gupta
 2. Anmoldeep Kaur Dhillon
