@@ -1,4 +1,4 @@
-### Overall objective
+# Overall objective
 
 To build a Covid Smart Mall model, consisting of a smart entry and exit mechanism
 which restricts the maximum number of people in the mall to, say 100 and a
